@@ -23,6 +23,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/nes.css/css/nes.css",
               "src/styles.css"
             ],
             "scripts": []
